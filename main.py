@@ -181,7 +181,7 @@ def keep_alive():
 # ================================
 # CONFIGURATION
 # ================================
-TOKEN = "8402273399:AAEjBJpiKNTi87Ny3VBiXBgsKsepoHIj7Ow"
+TOKEN = "8402273399:AAFI_tzrKKt9WwYQ58sEzjvRC_YfZZ_nTHA"
 OWNER_ID = 8794321786
 ADMIN_ID = 8794321786
 YOUR_USERNAME = '@g0zom'
